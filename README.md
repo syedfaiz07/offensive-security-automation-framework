@@ -1,4 +1,4 @@
-# ![Juice Shop Logo](https://raw.githubusercontent.com/juice-shop/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
+# ![Juice Shop Logo](https://raw.githubusercontent.com/offensive-security-automation-framework/juice-shop/master/frontend/src/assets/public/images/JuiceShop_Logo_100px.png) OWASP Juice Shop
 
 [![OWASP Flagship](https://img.shields.io/badge/owasp-flagship%20project-48A646.svg)](https://owasp.org/projects/#sec-flagships)
 [![GitHub release](https://img.shields.io/github/release/juice-shop/juice-shop.svg)](https://github.com/juice-shop/juice-shop/releases/latest)
@@ -168,8 +168,7 @@ guide. If this does not solve your issue please post your specific problem or qu
 
 [![Write Goodreads Review](https://img.shields.io/badge/goodreads-write%20review-49557240.svg)](https://www.goodreads.com/review/edit/49557240)
 
-OWASP Juice Shop comes with an official companion guide eBook. It will give you a complete overview of all
-vulnerabilities found in the application including hints how to spot and exploit them. In the appendix you will even
+OWASP offensive-security-automation-frameworkJuice Shop comes with an official companion guide eBook. It will give you a complete overview of all vulnerabilities found in the application including hints how to spot and exploit them. In the appendix you will even
 find complete step-by-step solutions to every challenge. Extensive documentation of
 [custom re-branding](https://pwning.owasp-juice.shop/companion-guide/latest/part4/customization.html),
 [CTF-support](https://pwning.owasp-juice.shop/companion-guide/latest/part4/ctf.html),
